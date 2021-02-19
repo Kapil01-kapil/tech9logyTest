@@ -1,7 +1,7 @@
 import React from 'react';
 import {Platform} from 'react-native';
 
-import ProductsOverviewScreen from '../screens/shop/dashboard';
+import ProductsOverviewScreen from '../screens/Home';
 
 import Colors from '../constants/Colors';
 
